@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  font-family: "Poppins";
+}
+.container {
+  height: 100vh;
+}
+section[aria-label="navbar"] {
+  height: 15vh;
+}
+
+.navbar-container div {
+  display: inline-block;
+}
+img[alt="brand-logo"] {
+  margin-left: 60px;
+  height: 6vh;
+  margin-top: 40px;
+  cursor: pointer;
+}
+.list {
+  margin-left: 60px;
+  list-style-type: none;
+}
+.list-item {
+  display: inline-block;
+  margin-left: 40px;
+  font-size: 17px;
+  position: relative;
+  bottom: 10px;
+  color: #b5b5b5;
+  cursor: pointer;
+}
+.list-item:first-child {
+  color: #000000;
+}
+.button-group .nav-button {
+  border: none;
+  background-color: #5955b3;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  position: relative;
+  top: -10px;
+  left: 530px;
+  cursor: pointer;
+}
+img[alt="illustration"] {
+  height: 85vh;
+  position: relative;
+  top: -350px;
+  left: 680px;
+  bottom: 300px;
+}
+.heading-text {
+  height: 35vh;
+  width: 30vw;
+  border: none;
+  font-size: 68px;
+  font-weight: 500;
+  position: relative;
+  left: 70px;
+  top: 130px;
+  color: #3c2f60;
+  letter-spacing: 1.5px;
+  line-height: 1;
+}
+.description {
+  border: none;
+  height: 10vh;
+  width: 30vw;
+  position: relative;
+  top: 130px;
+  left: 70px;
+  color: #b5b5b5;
+  font-size: 20px;
+}
+.nav-button {
+  border: none;
+  background-color: #5955b3;
+  padding: 20px 45px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: white;
+  position: relative;
+  top: 200px;
+  left: 180px;
+  cursor: pointer;
+}
+span {
+  color: #5955b3;
+}
