@@ -18,4 +18,4 @@ A simple Competition Landing Page created using `HTML` and `CSS`. This Project i
 - How to create a navigation bar.
 - How to margins and Padding.
 
-[Live Link](https://competition-ineuron.netlify.app/ "competition page") of this Project
+## [Live Link](https://competition-ineuron.netlify.app/ "competition page") of this Project
